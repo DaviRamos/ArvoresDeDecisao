@@ -1,4 +1,4 @@
-# ArvoresDeDecisao
+# Árvores de Decisão em Python com SKLearn
 Treinamento de Árvores de DEcisão
 
 
